@@ -22,7 +22,7 @@ It will then validate the file and if any discrepancies are found, it will move 
 
 •	touch s3_buckets.py
 
-•	Paste into it the code from the GitHub repository.
+•	Paste into it the code from the GitHub repository!
 
 •	Run: python s3_buckets.py
 
